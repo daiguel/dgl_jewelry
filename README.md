@@ -103,3 +103,7 @@ Choose your preferred notification and dispatch functions.
         close = true,
     },
 ```
+
+## Optionnal Dependencies
+- [fivem-drilling](https://github.com/meta-hub/fivem-drilling.git)
+- [ultra-voltlab](https://github.com/ultrahacx/ultra-voltlab.git) 
