@@ -2,9 +2,8 @@
  - [[ESX/QB] Jewelry Robbery](https://forum.cfx.re/t/esx-qb-jewelry-robbery/5180602)
 # Jewelry Heist
 **Note:** This isn't the original release; this version has been modified.
-##
-- [preview](https://youtu.be/vIDRDGkBIyM)
-https://youtu.be/vIDRDGkBIyM
+## [PREVIEW](https://youtu.be/vIDRDGkBIyM)
+
 ## Dependencies
 Ensure the following resources are included in your project:
 
