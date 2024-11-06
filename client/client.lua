@@ -709,8 +709,8 @@ AddEventHandler('dgl_jewelry:startSpray', function()-- issue when two client sta
             local hasIem = lib.callback.await('dgl_jewelry:checkItem', false, 'spray')
             if hasIem then
                 LocalPlayer.state.invBusy = true
-                local animDict = lib.requestAnimDict('anim@mp_player_intupperwave')
-                local anim = 'idle_a'
+                local animDict = lib.requestAnimDict('anim@scripted@freemode@postertag@graffiti_spray@male@')
+                local anim = 'spray_can_var_02_male'
                 local model = lib.requestModel(`prop_cs_spray_can`)
                 local ptfxDict = lib.requestNamedPtfxAsset('scr_paintnspray')
                 local ptfx = 'scr_respray_smoke'
